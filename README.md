@@ -16,7 +16,7 @@ I use this repository to document what I learn, practice, build, and investigate
 
 ---
 
-## 📚 Learning Areas
+## 📚 Learning Areas:
 
 ### 01 — Networking
 - OSI Model
