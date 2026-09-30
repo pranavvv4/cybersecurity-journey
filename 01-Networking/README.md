@@ -1,35 +1,57 @@
 # 🌐 Networking
 
-This section documents my networking fundamentals learning and practical exercises.
+Networking is one of the fundamental areas of cybersecurity.
 
-Networking is one of the core foundations of cybersecurity. I am studying how devices communicate, how data moves across networks, how protocols work, and how network services can be identified and analyzed.
+This section documents my networking learning journey, from basic concepts to practical network enumeration.
 
-## Topics
+## 📚 Topics
 
+- What is Networking?
+- Network Types
+- IP Addressing
+- MAC Addresses
+- Ports and Protocols
 - OSI Model
 - TCP/IP Model
 - TCP vs UDP
 - Encapsulation
-- IP Addressing
-- CIDR & Subnetting
-- Ports & Protocols
 - DNS
 - DHCP
 - HTTP/HTTPS
 - SSH
 - Telnet
+- CIDR and Subnetting
 - Network Enumeration
 
-## Practical Learning
+## 🔐 Why Networking Matters in Cybersecurity
 
-I am using TryHackMe to reinforce networking concepts through hands-on labs.
+Understanding networking is essential for cybersecurity because security professionals need to understand how devices communicate before they can identify and investigate abnormal activity.
 
-## Goal
+Networking knowledge is useful for:
+
+- Network traffic analysis
+- Firewall configuration
+- IDS/IPS
+- Incident response
+- Vulnerability assessment
+- Penetration testing
+- SOC investigations
+- Cloud security
+
+## 🧪 Practical Learning
+
+I am using TryHackMe and my own lab environment to practice networking concepts.
+
+My learning approach:
+
+**Learn → Practice → Understand → Document**
+
+## 🎯 Goal
 
 Build a strong networking foundation that I can apply to:
 
 - Security Engineering
 - Network Security
-- SOC Analysis
+- SOC
 - Incident Response
 - Cloud Security
