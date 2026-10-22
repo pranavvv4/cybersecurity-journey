@@ -1,4 +1,3 @@
-
 # 🎯 MITRE ATT&CK — Short Notes
 
 ## 📌 Definition
